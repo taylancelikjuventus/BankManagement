@@ -1,0 +1,15 @@
+
+-------------Java Bank Management System---------------
+Note : You can not use this program unless you import database file as following.
+      
+1. Download and install XAMMP run  apache server and MySQL server.
+2. Go to PHP admin page and create new databese named "bankmanagement1".
+   Then import sql file inside database folder of this project.
+-------------------------------------------------------------------------
+With this UI you can
+-create new customers
+-create new accounts
+-do money transactions withdraw/transfer/deposit based on given account number
+-loan money based on compound interest calculation.
+
+----------------------------------------END-------------------------------
